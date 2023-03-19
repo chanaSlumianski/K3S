@@ -1,4 +1,4 @@
-## _K3S_
+# K3S
 
 ## What is it?
 
