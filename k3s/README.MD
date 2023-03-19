@@ -1,4 +1,4 @@
-## _Markdown document describing k3s_
+## _K3S_
 
 ## What is it?
 
@@ -14,16 +14,17 @@ K3s is a fully conformant production-ready Kubernetes distribution with the foll
 ## Why should I use it?
 
 - Production ready and secure.
-- easy to install.
-- half the memory. 
-- all in a binary less than 100 MB.
-- certified Kubernetes distribution designed for production workloads  in unattended,
-remote locations or inside IoT ("Internet of Things" - Devices that are connected and can communicate with other devices) appliances.
+- Easy to install.
+- Half the memory. 
+- All in a binary less than 100 MB.
+- Certified Kubernetes distribution designed for production workloads  in unattended,
+remote locations or inside IoT *("Internet of Things" - Devices that are connected and can communicate with other devices)* appliances.
 
 ## When should it be used?
 
 In addition to where the above benefits are important to me.
-Kubernetes, or K8s, is an open-source, portable, and scalable container orchestration platform. With K8s, you can reliably manage distributed systems for your applications, enabling declarative configuration and automatic deployment.
+Kubernetes, or K8s, is an open-source, portable, and scalable container orchestration platform. 
+With K8s, you can reliably manage distributed systems for your applications, enabling declarative configuration and automatic deployment.
 
 ## Where can it be used?
 
