@@ -8,7 +8,7 @@ K3s is a fully conformant production-ready Kubernetes distribution with the foll
 - It adds support for sqlite3 as the default storage backend. Etcd3, MySQL, and Postgres are also supported.
 - It wraps Kubernetes and other components in a single, simple launcher.
 - It is secure by default with reasonable defaults for lightweight environments.
-- It has minimal to no OS dependencies (just a sane kernel and cgroup mounts needed).
+- It has minimal to no OS dependencies *(just a sane kernel and cgroup mounts needed)*.
 - It eliminates the need to expose a port on Kubernetes worker nodes for the kubelet API by exposing this API to the Kubernetes control plane nodes over a websocket tunnel.
 
 ## Why should I use it?
